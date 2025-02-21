@@ -2,7 +2,7 @@
 
 ## Praktikum PBO M1
 
-### No 1
+### Materi
 
 Buatlah aplikasi notes sederhana. Berikut adalah tampilan dari menu utama :
 
